@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://section77.de/</loc></url>
-  <url><loc>https://section77.de/about/</loc></url>
-  <url><loc>https://section77.de/blog/</loc></url>
-  <url><loc>https://section77.de/blog/first-post/</loc></url>
   <url><loc>https://section77.de/impressum/</loc></url>
   <url><loc>https://section77.de/kalender/</loc></url>
   <url><loc>https://section77.de/kalender/2017/</loc></url>
   <url><loc>https://section77.de/kalender/2017/2017-12-19/</loc></url>
   <url><loc>https://section77.de/kalender/2017/2017-12-05/</loc></url>
   <url><loc>https://section77.de/kalender/2018/</loc></url>
+  <url><loc>https://section77.de/kalender/2018/2018-05-29/</loc></url>
+  <url><loc>https://section77.de/kalender/2018/2018-05-15/</loc></url>
+  <url><loc>https://section77.de/kalender/2018/2018-05-05/</loc></url>
+  <url><loc>https://section77.de/kalender/2018/2018-05-01/</loc></url>
+  <url><loc>https://section77.de/kalender/2018/2018-04-17/</loc></url>
+  <url><loc>https://section77.de/kalender/2018/2018-04-07/</loc></url>
+  <url><loc>https://section77.de/kalender/2018/2018-04-03/</loc></url>
   <url><loc>https://section77.de/kalender/2018/2018-03-20/</loc></url>
   <url><loc>https://section77.de/kalender/2018/2018-03-06/</loc></url>
   <url><loc>https://section77.de/kalender/2018/2018-03-03/</loc></url>
@@ -24,4 +28,7 @@
   <url><loc>https://section77.de/kontakt/</loc></url>
   <url><loc>https://section77.de/projects/</loc></url>
   <url><loc>https://section77.de/section77.ics</loc></url>
+  <url><loc>https://section77.de/about/</loc></url>
+  <url><loc>https://section77.de/blog/</loc></url>
+  <url><loc>https://section77.de/blog/first-post/</loc></url>
 </urlset>
