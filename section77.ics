@@ -1036,7 +1036,7 @@ DTSTAMP:20210605T140000Z
 ORGANIZER;CN=Section77:MAILTO:info@section77.de
 DTSTART;TZID="Europe/Berlin":20210605T140000
 DTEND;TZID="Europe/Berlin":20210605T140000
-SUMMARY:Tech-Event: Was ist eigentlich dieses Git und wie hilft es?
+SUMMARY:Tech-Event: Hardware-Tokens - ein kleiner Zusatzaufwand für den Nutzer, ein großer Gewinn für die IT-Sicherheit
 END:VEVENT
 BEGIN:VEVENT
 UID:2021-06-01
